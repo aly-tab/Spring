@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+#container-one {
+	margin: 100px auto 0 auto;
+	display: flex;
+	justify-content: space-between;
+	width: 25%;
+}
+
+#container {
+	margin: 100px;
+	text-align: center;
+}
+
+.blue {
+	color: blue;
+}
+
+.green {
+	color: green;
+}
