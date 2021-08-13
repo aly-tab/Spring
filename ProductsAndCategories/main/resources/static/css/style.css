@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+#container {
+	width: 40%;
+	margin: 200px auto 0 auto;
+}
+
+.col {
+	width: 50%;
+}
+
+#row {
+	display: flex;
+	justify-content: center;
+}
+
+
